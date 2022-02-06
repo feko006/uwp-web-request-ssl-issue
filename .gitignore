@@ -1,0 +1,85 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Cc]odeCoverage/
+
+# ================================================ #
+# MemoryCaptures can get excessive in size.        #
+# They also could contain extremely sensitive data #
+# ================================================ #
+/[Mm]emoryCaptures/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+UnityVS/
+UnityVS.meta
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ============================ #
+# Unity3D generated meta files #
+# ============================ #
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ============================ #
+# Visual Studio Code generated #
+# ============================ #
+.vscode/
+
+# ==================== #
+# IDEA Rider generated #
+# ==================== #
+.idea
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ======================================= #
+# Unity3D Generated File On Crash Reports #
+# ======================================= #
+sysinfo.txt
+
+# =================== #
+# Packed Addressables #
+# =================== #
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# ======================================= #
+# Temporary auto-generated Android Assets #
+# ======================================= #
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
